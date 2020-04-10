@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80be44db-290a-46c7-b7f7-faae29e6f722" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aKnDvpXKoSqB4Yqkv8y4Cala4g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.homework.Main" />
+      <module name="ex-palindrome" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80be44db-290a-46c7-b7f7-faae29e6f722" name="Default Changelist" comment="" />
+      <created>1586493036858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586493036858</updated>
+      <workItem from="1586493040064" duration="1119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="835" y="445" width="309" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586495938146">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="835" y="445" width="309" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586495938146" />
+    <state width="1796" height="272" key="GridCell.Tab.0.bottom" timestamp="1586496435995">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.bottom/70.27.1850.1053@70.27.1850.1053" timestamp="1586496435995" />
+    <state width="1796" height="272" key="GridCell.Tab.0.center" timestamp="1586496435994">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.center/70.27.1850.1053@70.27.1850.1053" timestamp="1586496435994" />
+    <state width="1796" height="272" key="GridCell.Tab.0.left" timestamp="1586496435994">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.left/70.27.1850.1053@70.27.1850.1053" timestamp="1586496435994" />
+    <state width="1796" height="272" key="GridCell.Tab.0.right" timestamp="1586496435994">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state width="1796" height="272" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1586496435994" />
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1586493055526">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="658" y="259" width="672" height="678" key="search.everywhere.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1586493055526" />
+  </component>
+</project>
